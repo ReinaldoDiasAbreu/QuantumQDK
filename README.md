@@ -12,4 +12,4 @@
 | 5  | Estados de Bell | [![Estados de Bell](https://img.youtube.com/vi/6-MpLWW0wvI/mqdefault.jpg)](https://youtu.be/6-MpLWW0wvI) | [</>](https://github.com/ReinaldoDiasAbreu/QuantumQDK/blob/master/bell/bell.ipynb) |
 | 6  | Algoritmo de Deutsch e sua simplificação | [![Algoritmo de Deutsch](https://img.youtube.com/vi/_nJq3oQ6vWQ/mqdefault.jpg)](https://youtu.be/_nJq3oQ6vWQ) | [</>](https://github.com/ReinaldoDiasAbreu/QuantumQDK/blob/master/deutsch/Deutsch.ipynb) |
 | 7  | Criptografia Quântica com o protocolo BB84 | [![Criptografia BB84](https://img.youtube.com/vi/67vnFkHQZgI/mqdefault.jpg)](https://youtu.be/67vnFkHQZgI) | [</>](https://github.com/ReinaldoDiasAbreu/QuantumQDK/blob/master/criptografia/BB84) |
-
+| 8  | Teleporte Quântico | [![Teleporte Quântico](https://img.youtube.com/vi/FA9GBRKQ3do/mqdefault.jpg)](https://youtu.be/FA9GBRKQ3do) | [</>](https://github.com/ReinaldoDiasAbreu/QuantumQDK/blob/master/teleport) |
